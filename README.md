@@ -1,4 +1,4 @@
-# (This is a password-protected version of Interstellar, for personal use. 
+# (This is a password-protected version of Interstellar, for personal use.) 
 Buttons are [here](https://github.com/BinBashBanana/deploy-buttons). Made using the wonderful [StatiCrypt](https://github.com/robinmoisson/staticrypt). You can find the OG version of Interstellar [here](https://github.com/InterstellarNetwork/Interstellar).
 ## Deploy:
 <a target="_blank" href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/EurekaMathSkillIssue/Interstellar-main"><img alt="Deploy to Amplify Console" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg"></a>
